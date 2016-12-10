@@ -192,7 +192,7 @@ function kws_yourls_show_analytics_help() {
 					</tr>
 				</tbody>
 			</table>
-			<p style="text-align:center; font-weight:bold;"><a href="http://www.google.com/support/googleanalytics/bin/answer.py?answer=55578" target="_blank">Learn more about Google Analytics link tagging</a></p>
+			<p style="text-align:center; font-weight:bold;"><a href="https://ga-dev-tools.appspot.com/campaign-url-builder/" target="_blank">Learn more about Google Analytics link tagging</a></p>
 		</div>
 	<?php
 }
