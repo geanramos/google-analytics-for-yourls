@@ -450,6 +450,15 @@ function kws_yourls_process_source_abbr($value = '') {
 		case 'em':
 			$value = 'email';
 			break;
+		case 'yt':
+			$value = 'youtube';
+			break;
+		case 'ig':
+			$value = 'instagram';
+			break;
+		case 'zap':
+			$value = 'whatsapp';
+			break;
 	}
 	return $value;
 }
